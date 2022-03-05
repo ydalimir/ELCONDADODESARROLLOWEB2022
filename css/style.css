@@ -1,8 +1,30 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FE5D37;
+    --primary: #dddddd;
     --light: #FFF5F3;
     --dark: #103741;
+
+
+
+
+    --unnamed-color-f0ede6: #F0EDE6;
+--unnamed-color-ff8d61: #FF8D61;
+--unnamed-color-da4d3c: #DA4D3C;
+--unnamed-color-f4e652: #F4E652;
+--unnamed-color-191d2200: #191D2200;
+--unnamed-color-b1beb2: #B1BEB2;
+--unnamed-color-dfb0ca: #DFB0CA;
+--unnamed-color-db708b: #DB708B;
+--unnamed-color-c9376c: #C9376C;
+--unnamed-color-902e11: #902E11;
+--unnamed-color-ffffff: #FFFFFF;
+--unnamed-color-80ab59: #80AB59;
+--unnamed-color-38592c: #38592C;
+--unnamed-color-e0cbb0: #E0CBB0;
+--unnamed-color-431901: #431901;
+--unnamed-color-153a33: #153A33;
+--unnamed-color-9e7955: #9E7955;
+--unnamed-color-707070: #707070;
 }
 
 .back-to-top {
@@ -28,6 +50,18 @@
     opacity: 1;
 }
 
+.imgklm{
+
+    background-image: url("../img/Enmascarar\ grupo\ 1.png") !important;
+    background-repeat: no-repeat !important;
+}
+
+.imgklms{
+
+    background-image: url("../img/Enmascarar\ grupo\ 1.png") !important;
+    background-repeat: no-repeat !important;
+}
+
 
 /*** Button ***/
 .btn {
@@ -36,7 +70,7 @@
 }
 
 .btn.btn-primary {
-    color: #FFFFFF;
+    color:  #ffffff  ;
 }
 
 .btn-square {
@@ -81,7 +115,7 @@ h4,
 .display-4,
 .display-5,
 .display-6 {
-    font-family: 'Lobster Two', cursive;
+    
     font-weight: 700;
 }
 
