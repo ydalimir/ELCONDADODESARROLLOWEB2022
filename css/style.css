@@ -25,7 +25,75 @@
 --unnamed-color-153a33: #153A33;
 --unnamed-color-9e7955: #9E7955;
 --unnamed-color-707070: #707070;
+
+
+
 }
+
+
+@font-face {
+    font-family: 'LePORSCHE';
+    src: url('./AL_LePORSCHE_PersonalUseOnly.ttf') format('truetype');
+    
+  }
+
+  @font-face {
+    font-family: 'CharterBoldBT';
+    src: url('./CharterBoldBT.ttf') format('truetype');
+    
+  }
+
+
+  @font-face {
+    font-family: 'Charter';
+    src: url('./charter_bt_roman.ttf') format('truetype');
+    
+  }
+
+.numbersqs{
+    font-size: 28px !important;
+     color: var(--unnamed-color-153a33) !important;
+     font-family: "LePORSCHE" !important;
+}
+
+.numbersqss{
+    font-size: 39px !important;
+     color: var(--unnamed-color-153a33) !important;
+     font-family: "LePORSCHE" !important;
+}
+
+
+.tdtxt{
+    font-family: "LePORSCHE" !important;
+    font-size: 12px;  color: white
+}
+
+.tdtxts{
+    font-family: "LePORSCHE" !important;
+    
+}
+
+.charter{
+    font-family: "CharterBoldBT" !important;
+    font-size: 45px;
+}
+
+
+.charters{
+    font-family: 'Charter';
+    
+}
+
+
+.Chartersinbold{
+ 
+
+    font-family: "CharterBoldBT" !important;
+}
+
+
+
+
 
 .back-to-top {
     position: fixed;
