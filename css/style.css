@@ -75,7 +75,7 @@
 
 .charter{
     font-family: "CharterBoldBT" !important;
-    font-size: 45px;
+   
 }
 
 
@@ -84,11 +84,52 @@
     
 }
 
+.chartersd{
+    font-family: 'Charter';
+    
+}
+
+
+
 
 .Chartersinbold{
  
 
     font-family: "CharterBoldBT" !important;
+}
+
+.imgnp{
+
+width: 500px ;
+height: 750px;
+
+margin: 30px;
+
+    
+}
+
+
+.botonpd{
+
+    width: 180px ; 
+    height: 42px;  
+    margin-left: 17px
+
+
+}
+
+.textprimera{
+    font-size: 16px;
+}
+
+
+.botonpi{
+
+    width: 180px ; 
+    height: 42px;
+    margin-left: 25px; 
+    background-color: #F0EDE6   ;
+     color: black;
 }
 
 
@@ -286,7 +327,239 @@ h6,
    
 }
 
+.linestyle{
+   margin-left: 0;
+
+
+    width:520px ;
+
+    height:1px ;
+
+   
+}
+
+.textohed{
+  font-size: 9px;  color: #153A33;
+
+}
+.imginicio{
+    margin-right: 300px;
+    height: 250px ;
+    width: 450px ;
+}
+
+.imgvisibles{
+    visibility:collapse;
+    height: 0px;
+    width: 0px;
+
+
+}
+
+.imagenultima{
+
+    margin-left: 50px; 
+
+
+}
+
+
+.textdesx{
+    
+    font-size: 12px;
+
+}
+
+.botoncon{
+    width: 180px ; height: 42px; margin-bottom: 30px;
+}
+
+.mvheading{
+    margin-bottom: 400px;
+}
+
+.imgvisiblex{
+    visibility:visible;
+    height: 500px;
+    width: 700px;
+}
+
+.headingicons{
+    margin-bottom: 80px;
+}
+
+.inicioimg{
+
+    margin-bottom:  0px;
+}
+
+
+
+
+
 @media (max-width: 768px) {
+
+    .inicioimg{
+
+        margin-bottom:  260px;
+    }
+    
+
+    .moviltm{
+        height: 850px;
+
+    }
+
+    .headingicons{
+        margin-bottom: 0px;
+        visibility:collapse;
+    }
+    
+
+    .mvheading{
+        visibility:collapse;
+    }
+
+    .imginicio{
+      margin-left: 90px;
+        height: 200px !important ;
+        width:  200px !important;
+    }
+    
+
+    .mvsass{
+        margin-bottom: 25px;
+    }
+
+    .textohed{
+        font-size: 18px;  color:#153A33;
+      
+      }
+
+    .imagenultima{
+
+        margin-left: 30%; 
+        margin-top: 80px;
+        margin-bottom: 30px;
+    
+    
+    }
+
+    .imgvisible{
+        visibility:collapse;
+        height: 0px;
+        width: 0px;
+    }
+
+    .imgvisiblex{
+        visibility:collapse;
+        height: 0px;
+        width: 0px;
+    }
+
+
+    .centrarmd{
+        text-align: center !important;
+    }
+
+    .imgvisibles{
+        visibility:visible;
+        height: 310px;
+        width: 400px;
+    }
+
+    .textdes{
+        text-align: center;
+        font-size: 17px;
+    
+    }
+
+    .botoncon{
+        width: 180px ; height: 42px; margin-bottom: 30px;
+        text-align: center;
+    }
+    
+    
+    .textdesx{
+        text-align: center;
+        font-size: 17px;
+    
+    }
+
+    .textdem{
+        text-align: center;
+        font-size: 28px;
+    
+    }
+
+  
+  
+
+    .textdetx{
+        text-align: center;
+        font-size: 14px;
+    
+    }
+    
+
+    .linestyle{
+        margin-left: 0;
+     
+     
+         width:390px ;
+     
+         height:1px ;
+     
+        
+     }
+
+    .imgnp{
+
+        width: 367px ;
+        height: 410px;
+
+        margin: 20px;
+
+
+        
+            
+        
+        }
+
+        
+.textnp{
+    display: table-cell;
+
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+
+
+        .botonpd{
+
+            width: 180px ; 
+            height: 49px;  
+            margin-left: 100px;
+
+            margin-bottom: 20px;
+
+            
+        
+        
+        }
+        
+        
+        .botonpi{
+        
+            width: 180px ; 
+            height: 49px;
+         margin-left: 100px;
+            background-color: #F0EDE6   ;
+             color: black;
+        }
+        
     .header-carousel .owl-carousel-item {
         position: relative;
         min-height: 500px;
@@ -603,3 +876,7 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+
+
+
+
